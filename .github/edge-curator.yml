@@ -1,3 +1,4 @@
 url_template: 'https://<branch>--servicenow--hlxsites.hlx.live'
 sites:
     - /blogs/author/mary-hain
+    - /page-not-found.html
